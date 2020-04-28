@@ -1,0 +1,22 @@
+{
+  "name": "cytube-smiles-panel",
+  "version": "1.0.0",
+  "description": "Advanced smiles panel for @calzoneman/sync",
+  "scripts": {
+    "build": "parcel build src/index.js --public-url ./ --out-file csp.min.js --no-source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadhead/cytube-smiles-panel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cadhead/cytube-smiles-panel/issues"
+  },
+  "homepage": "https://github.com/cadhead/cytube-smiles-panel#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
