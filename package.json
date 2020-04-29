@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/cadhead/cytube-smiles-panel#readme",
   "dependencies": {
+    "@cloudcmd/create-element": "^2.0.2",
     "parcel": "^1.12.4"
   }
 }
